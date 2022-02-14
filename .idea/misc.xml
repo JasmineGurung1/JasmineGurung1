@@ -3,12 +3,48 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.24814814814814815" />
+        <entry key="app/src/main/res/drawable-v24/back.xml" value="0.24722222222222223" />
+        <entry key="app/src/main/res/drawable-v24/bag.xml" value="0.22870370370370371" />
+        <entry key="app/src/main/res/drawable-v24/box_color.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/drawable-v24/box_search.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/drawable-v24/box_shape.xml" value="0.2462962962962963" />
+        <entry key="app/src/main/res/drawable-v24/category.xml" value="0.22870370370370371" />
+        <entry key="app/src/main/res/drawable-v24/facebook.xml" value="0.2462962962962963" />
+        <entry key="app/src/main/res/drawable-v24/google.xml" value="0.2462962962962963" />
+        <entry key="app/src/main/res/drawable-v24/home.xml" value="0.22870370370370371" />
+        <entry key="app/src/main/res/drawable-v24/ic_add.xml" value="0.24722222222222223" />
+        <entry key="app/src/main/res/drawable-v24/ic_back.xml" value="0.24722222222222223" />
+        <entry key="app/src/main/res/drawable-v24/rec_box.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/drawable-v24/search_icon.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/drawable-v24/single_box.xml" value="0.18611111111111112" />
+        <entry key="app/src/main/res/drawable-v24/strike.xml" value="0.31296296296296294" />
         <entry key="app/src/main/res/drawable/at.xml" value="0.19444444444444445" />
         <entry key="app/src/main/res/drawable/ic_padlock.xml" value="0.19444444444444445" />
+        <entry key="app/src/main/res/drawable/ic_visibility.xml" value="0.22407407407407406" />
         <entry key="app/src/main/res/drawable/person.xml" value="0.19444444444444445" />
+        <entry key="app/src/main/res/layout/activity_category.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1995649897859118" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.19701086956521738" />
+        <entry key="app/src/main/res/layout/activity_single_product.xml" value="0.16477244511819486" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.14361702127659576" />
-        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.14361702127659576" />
+        <entry key="app/src/main/res/layout/activity_user_account.xml" value="0.21890094753259748" />
+        <entry key="app/src/main/res/layout/category_item.xml" value="0.3624090081478028" />
+        <entry key="app/src/main/res/layout/fragment_cart.xml" value="0.1721014492753623" />
+        <entry key="app/src/main/res/layout/fragment_category.xml" value="0.21965579710144928" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.19701086956521738" />
+        <entry key="app/src/main/res/layout/fragment_home2.xml" value="0.19701086956521738" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.23505850127065253" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.21965579710144928" />
         <entry key="app/src/main/res/layout/fragment_register.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_wishlist.xml" value="0.21965579710144928" />
+        <entry key="app/src/main/res/layout/ic_empty.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/item_category.xml" value="0.21710458086465487" />
+        <entry key="app/src/main/res/layout/item_categoryimage.xml" value="0.3005211353602581" />
+        <entry key="app/src/main/res/layout/single_item.xml" value="0.2083199600284011" />
+        <entry key="app/src/main/res/layout/slider_item.xml" value="0.2133503390427159" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/bottom_nav.xml" value="0.2953125" />
       </map>
     </option>
   </component>

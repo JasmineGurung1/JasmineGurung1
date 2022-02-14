@@ -7,5 +7,13 @@
     <color name="Black">#2B2A2A</color>
     <color name="Cream">#B7A476</color>
     <color name="black">#FF000000</color>
+    <color name="grey_divider">#E7E8EC</color>
+    <color name="Gray">#9C9898</color>
+
+
+    <!--    declared colors-->
+    <color name="line">#C3C0C0</color>
+    //changing color of status bar//
+    <color name="statusBar">#FFFFFF</color>
 
 </resources>

@@ -10,7 +10,7 @@ public class SharedPrefUtils {
         SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(context);
         return sharedPref.getBoolean(key, defaultV);
     }
-    public static String getString(Activity context, String key) {
+    public static String getSting(Activity context, String key) {
         SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(context);
         return sharedPref.getString(key, "");
     }
